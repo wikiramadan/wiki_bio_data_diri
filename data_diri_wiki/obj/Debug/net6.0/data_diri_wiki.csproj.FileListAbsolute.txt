@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\bin\Debug\net6.0\data_diri_wiki.exe
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\bin\Debug\net6.0\data_diri_wiki.deps.json
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\bin\Debug\net6.0\data_diri_wiki.runtimeconfig.json
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\bin\Debug\net6.0\data_diri_wiki.dll
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\bin\Debug\net6.0\data_diri_wiki.pdb
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\obj\Debug\net6.0\data_diri_wiki.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\obj\Debug\net6.0\data_diri_wiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\obj\Debug\net6.0\data_diri_wiki.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\obj\Debug\net6.0\data_diri_wiki.AssemblyInfo.cs
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\obj\Debug\net6.0\data_diri_wiki.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\obj\Debug\net6.0\data_diri_wiki.dll
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\obj\Debug\net6.0\refint\data_diri_wiki.dll
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\obj\Debug\net6.0\data_diri_wiki.pdb
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\obj\Debug\net6.0\data_diri_wiki.genruntimeconfig.cache
+C:\Users\USER\source\repos\data_diri_wiki\data_diri_wiki\obj\Debug\net6.0\ref\data_diri_wiki.dll
